@@ -18,10 +18,16 @@
       <module name="ceres.xtext.ide_test" target="1.8" />
       <module name="ceres.xtext_main" target="1.8" />
       <module name="ceres.xtext_test" target="1.8" />
+      <module name="com.example.iavl.jvmMain" target="1.6" />
+      <module name="com.example.iavl.jvmTest" target="1.6" />
+      <module name="iavl.jvmMain" target="1.6" />
+      <module name="iavl.jvmTest" target="1.6" />
       <module name="network.regen.ceres-base-jvm.main" target="1.8" />
       <module name="network.regen.ceres-base-jvm.test" target="1.8" />
       <module name="regen-ledger_main" target="1.8" />
       <module name="regen-ledger_test" target="1.8" />
+      <module name="regen-network.ceres-base-jvm.main" target="1.8" />
+      <module name="regen-network.ceres-base-jvm.test" target="1.8" />
       <module name="regen-network.ceres-base.main" target="1.8" />
       <module name="regen-network.ceres-base.test" target="1.8" />
       <module name="regen-network.ceres-js.main" target="1.8" />
