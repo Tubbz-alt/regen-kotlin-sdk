@@ -1,1 +1,1 @@
-# Ceres Programming Language
+# Regen Network Kotlin SDK
